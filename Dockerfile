@@ -18,4 +18,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 7860
 
 # Command to run the Gradio app
-CMD ["python", "your_script.py"]
+CMD ["python", "app.py"]
